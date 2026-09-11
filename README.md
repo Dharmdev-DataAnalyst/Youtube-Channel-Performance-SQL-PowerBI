@@ -74,7 +74,7 @@ YouTube channel performance.
 - Country-wise Subscribers
 
 Click any dashboard image below to view it in full size.
- [![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)](Dashboard_Screenshots/Executive_Dashboard.png)
+ [![Executive Dashboard](Dashboard-screenshots/ExecutiveDashboard.png)](Dashboard-screenshots/ExecutiveDashboard.png)
 
 ---
 ## 2. Channel Performance
@@ -88,7 +88,7 @@ This page helps compare channels based on subscribers,
 uploads and video views.
 
 Click any dashboard image below to view it in full size.
- [![Channel Performance](Dashboard_Screenshots/Channel_Performance.png)](Dashboard_Screenshots/Channel_Performance.png)
+ [![Channel Performance](Dashboard-screenshots/ChannelPerformance.png)](Dashboard-screenshots/ChannelPerformance.png)
 
 ---
 ## 3. Geographical & Revenue Analysis
@@ -102,7 +102,7 @@ This helps identify geographical markets and content categories
 with stronger revenue and subscriber performance.
 
 Click any dashboard image below to view it in full size.
- [![Geographical & Revenue Analysis](Dashboard_Screenshots/Geographical_Revenue_Analysis.png)](Dashboard_Screenshots/Geographical_Revenue_Analysis.png)
+ [![Geographical & Revenue Analysis](Dashboard-sceenshots/Geographical&Revenue.png)](Dashboard-screenshots/Geographical&Revenue.png)
 
 ---
 ## Key Insights
