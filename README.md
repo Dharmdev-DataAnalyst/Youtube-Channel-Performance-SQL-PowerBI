@@ -36,10 +36,15 @@ before visualization.
 
 ### SQL Tasks
 1.Display the Top 10 Youtube channels based on Subscribers.
+
 2.Find the Top 5 countries having the highest total subscribers.
+
 3.Display the Top 10 Categories based on total Video Views.
+
 4.Find the channel having the Highest subscribers gain in last 30 Days.
+
 5.Calculate the average yearly earnings for each youtube category.
+
 6.Create a SQL View named vw_ChannelPerformance containing the following columns:
  -Channel Name
  -Country
