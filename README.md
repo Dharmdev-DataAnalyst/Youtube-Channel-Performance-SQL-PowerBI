@@ -74,7 +74,7 @@ YouTube channel performance.
 - Country-wise Subscribers
 
 Click any dashboard image below to view it in full size.
- [![Executive Dashboard](Dashboard-screenshots/Executive Dashboard.png)](Dashboard-screenshots/Executive Dashboard.png)
+ [![Executive Dashboard](Dashboard-screenshots/ExecutiveDashboard.png)](Dashboard-screenshots/ExecutiveDashboard.png)
 
 ---
 ## 2. Channel Performance
