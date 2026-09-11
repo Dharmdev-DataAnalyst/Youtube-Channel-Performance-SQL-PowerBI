@@ -46,12 +46,19 @@ before visualization.
 5.Calculate the average yearly earnings for each youtube category.
 
 6.Create a SQL View named vw_ChannelPerformance containing the following columns:
+
  -Channel Name
+
  -Country
+ 
  -Category
+ 
  -Subscribers
+ 
  -Video views
+ 
  -Uploads
+ 
  -Highest Yearly Earnings
 
 SQL scripts are available in the  `SQL` folder.
