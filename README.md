@@ -66,6 +66,25 @@ SQL scripts are available in the  `SQL` folder.
 ---
 ## Power BI Dashboard
 The cleaned and analyzed data was visualized using Power BI.
+
+## Data Visualization
+
+1.Line chart showing channels having more than 2,00,000 uploads.
+
+2.Clustered Bar Chart displaying the Top 10 Channels based on Subscribers.
+
+3.Packed Bubble Chart showing Category-wise Subscribers.
+
+4.Tree map Showing Category-wise Video Views.
+
+5.Filled Map Showing Country-wise Subscribers.
+
+6.Donut Chart displaying Channel Type Distribution.
+
+7.Column Chart displaying Top 10 Countries by Total Video Views.
+
+8.Scatter Chart showing the relationship between Subscribers and Video Views.
+
 The dashboard contains three main pages.
 
 ---
