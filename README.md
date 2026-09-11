@@ -102,7 +102,7 @@ This helps identify geographical markets and content categories
 with stronger revenue and subscriber performance.
 
 Click any dashboard image below to view it in full size.
- [![Geographical & Revenue Analysis](Dashboard-screenshots/Geographical&Revenue.png)](Dashboard-screenshots/Geographical&Revenue.png)
+ [![Geographical & Revenue](Dashboard-screenshots/Geographic&Revenue.png)](Dashboard-screenshots/Geographic&Revenue.png)
 
 ---
 ## Key Insights
