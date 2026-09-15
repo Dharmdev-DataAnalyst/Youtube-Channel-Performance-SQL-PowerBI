@@ -30,9 +30,13 @@ before visualization.
 ### Data Validation & Cleaning
 
 1.Find the total number of records available in the dataset.
+
 2.Check whether duplicate channel names exist.
+
 3.Identify all columns containing Null Values.
+
 4.Replace Null values wherever appropriate.
+
 5.Verify and correct the data types of all numeric and date columns.
 
 ### SQL Tasks
