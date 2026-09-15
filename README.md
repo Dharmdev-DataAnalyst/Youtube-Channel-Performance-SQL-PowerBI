@@ -28,6 +28,7 @@ SQL was used to perform data exploration and analytical operations
 before visualization.
 
 ### Data Validation & Cleaning
+
 1.Find the total number of records available in the dataset.
 2.Check whether duplicate channel names exist.
 3.Identify all columns containing Null Values.
